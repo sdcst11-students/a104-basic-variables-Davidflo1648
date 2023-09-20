@@ -2,6 +2,6 @@
 
 # SD Computing Studies Assignment
 
-x=10
+value1=10
 
-y=2.4
+value2="10"

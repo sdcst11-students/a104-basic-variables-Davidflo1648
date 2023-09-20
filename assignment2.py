@@ -2,6 +2,6 @@
 
 # SD Computing Studies Assignment
 
-x=10
+fname="Mr"
 
-y=2.4
+lname="Yang"
